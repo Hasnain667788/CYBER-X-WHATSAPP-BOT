@@ -12,12 +12,12 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;sMdXGRCB#ZE2Xy-9h_t6ExPtRhlVgEv-E5dVO_-uKf69k1wOL8uc",
+            "description": "cyber-x@;;;0RsHxAqJ#ocnZ2l9eYsofGb2rGId3vu9dJGxuaVwmSeKKQnvDfwU",
             "required": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "ddd6e796-b170-4ff3-b94e-f03e0e2b7f49",
+            "description": "710770eb-8b5d-41e8-a7eb-c96a155eaf2f",
             "required": true,
             "value": ""
         },
